@@ -26,5 +26,3 @@ Write a WordPress plugin that ingests submissions to self.wordpress on the [Word
 
 
 This will be tested on a bare install of WordPress using the underscores theme. Frontend output is not necessary.
-
-Let us know how long it took and if you have any questions.
